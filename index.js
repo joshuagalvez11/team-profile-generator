@@ -158,6 +158,7 @@ function display(){
         <title>Team</title>
     </head>
     <body>
+        <h1>Team<h1>
     `;
     
     for(var i = 0; i < employees.length; i++){  
